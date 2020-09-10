@@ -22,7 +22,7 @@ Install the following packages.
 
 Note that `devel/binutils-esp32ulp` is not in the official ports tree. You
 must built the package yourself. The port is available at
-[devel/binutils-esp32ulp](https://github.com/trombik/freebsd-ports-binutils-esp32ulp).
+[freebsd-ports-binutils-esp32ulp](https://github.com/trombik/freebsd-ports-binutils-esp32ulp).
 
 ## Usage
 
